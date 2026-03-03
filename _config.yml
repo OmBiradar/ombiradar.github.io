@@ -49,6 +49,7 @@ minima:
   #     * title    Tooltip rendered on hovering over icon.
   #     * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
   #     * url      Full URL of social profile.
+  hide_site_feed_link: true
   social_links:
     - title: My GitHub
       icon: github
