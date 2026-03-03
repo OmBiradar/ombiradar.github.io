@@ -1,7 +1,7 @@
 title: Om's Blog
 author:
   name: Om Biradar
-  email: om.biradar@gmail.com
+  email: ombiradar04@gmail.com
 
 description: >
   My personal blog about programming, technology, 
@@ -54,3 +54,6 @@ minima:
     - title: My GitHub
       icon: github
       url: "https://github.com/OmBiradar"
+    - title: My LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/om-biradar-2b4a981bb/"
