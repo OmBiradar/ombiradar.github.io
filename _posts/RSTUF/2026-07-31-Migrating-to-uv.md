@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RSTUF: Migrating to uv"
-categories: python
+categories: RSTUF
 ---
 
 ## Motivation
@@ -11,7 +11,7 @@ categories: python
 ## The Move
 
 - Replace the files specific to `pipenv` like `Pipfile` with files
-specific to `uv` like `pyproject.toml`.
-- Update testing 
+  specific to `uv` like `pyproject.toml`.
+- Update testing
 - Update CI
 - Update `README.md`

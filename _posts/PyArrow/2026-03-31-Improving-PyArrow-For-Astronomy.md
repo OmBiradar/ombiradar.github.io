@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Proposal for Improving PyArrow for Astronomy"
-categories: misc
+categories: PyArrow
 ---
 
 ## Motivation
