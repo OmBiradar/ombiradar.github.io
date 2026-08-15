@@ -12,10 +12,10 @@ permalink: /about/
         Hi, I'm <strong>Om Biradar</strong>.
     </p>
     <p>
-        I'm a programmer. I do things that interest me.
+        I do things that interest me.
     </p>
     <p>
-        I am also an upcoming SDE at NatWest Group.
+        I work as a data engineer at NatWest Group.
     </p>
     <p>
         This blog is my personal space to write notes, explanations, experiments, and thoughts.
