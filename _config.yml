@@ -50,7 +50,7 @@ minima:
   #     * title    Tooltip rendered on hovering over icon.
   #     * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
   #     * url      Full URL of social profile.
-  hide_site_feed_link: true
+  hide_site_feed_link: false
   social_links:
     - title: My GitHub
       icon: github
@@ -58,3 +58,8 @@ minima:
     - title: My LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/om-biradar-2b4a981bb/"
+
+feed:
+  categories:
+    - PyArrow
+    - RSTUF
