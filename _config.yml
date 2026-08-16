@@ -58,8 +58,3 @@ minima:
     - title: My LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/om-biradar-2b4a981bb/"
-
-feed:
-  categories:
-    - PyArrow
-    - RSTUF
