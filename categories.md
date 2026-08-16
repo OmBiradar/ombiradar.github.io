@@ -53,8 +53,14 @@ permalink: /categories/
 
 <div class="category-grid">
   {% for category in site.categories %}
-    <a href="{{ site.baseurl }}/category/{{ category[0] }}/" class="category-card">
-      <h2>{{ category[0] | capitalize }}</h2>
+    {% assign cat_name = category[0] %}
+    {% if cat_name == "GSoC 2026" %}
+      {% assign cat_url = "GSoC26" %}
+    {% else %}
+      {% assign cat_url = cat_name %}
+    {% endif %}
+    <a href="{{ site.baseurl }}/category/{{ cat_url }}/" class="category-card">
+      <h2>{{ cat_name | capitalize }}</h2>
       <p>{{ category[1].size }} post{% if category[1].size != 1 %}s{% endif %}</p>
     </a>
   {% endfor %}
